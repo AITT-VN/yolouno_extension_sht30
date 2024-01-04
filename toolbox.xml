@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category id="SHT30" name="SHT30" colour="#d400d4" icon="temperature-high">
+    <block type="uno_sht30_temp"></block>
+    <block type="uno_sht30_humid"></block>
+    <block type="uno_sht30_change_address">
+      <value name="ADDR">
+        <shadow type="text">
+          <field name="TEXT">0x44</field>
+        </shadow>
+      </value>
+    </block>
+  </category>
+</xml>
