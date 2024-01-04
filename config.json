@@ -1,6 +1,6 @@
 {
-    "name": "MLX90614",
-    "description": "Thư viện cho cảm biến thân nhiệt MLX90614",
+    "name": "SHT30",
+    "description": "Thư viện cho cảm biến nhiệt độ và độ ẩm SHT30/SHT31",
     "libs": [
         "sht30.py"
     ],
